@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://elroyloo.github.io/csb-79nwtv/static/js/main.46941453.chunk.js",
+    "main.js.map": "https://elroyloo.github.io/csb-79nwtv/static/js/main.46941453.chunk.js.map",
+    "runtime-main.js": "https://elroyloo.github.io/csb-79nwtv/static/js/runtime-main.df6b3b15.js",
+    "runtime-main.js.map": "https://elroyloo.github.io/csb-79nwtv/static/js/runtime-main.df6b3b15.js.map",
+    "static/js/2.137f3be0.chunk.js": "https://elroyloo.github.io/csb-79nwtv/static/js/2.137f3be0.chunk.js",
+    "static/js/2.137f3be0.chunk.js.map": "https://elroyloo.github.io/csb-79nwtv/static/js/2.137f3be0.chunk.js.map",
+    "index.html": "https://elroyloo.github.io/csb-79nwtv/index.html",
+    "precache-manifest.3f2123e907671052927916df9857498a.js": "https://elroyloo.github.io/csb-79nwtv/precache-manifest.3f2123e907671052927916df9857498a.js",
+    "service-worker.js": "https://elroyloo.github.io/csb-79nwtv/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df6b3b15.js",
+    "static/js/2.137f3be0.chunk.js",
+    "static/js/main.46941453.chunk.js"
+  ]
+}
